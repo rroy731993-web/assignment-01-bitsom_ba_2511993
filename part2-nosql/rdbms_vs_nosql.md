@@ -1,0 +1,5 @@
+## Database Recommendation
+
+For a healthcare system, MySQL would be the better choice because it follows ACID properties. This means the data stays accurate, consistent and reliable, which is very important when dealing with sensitive information like patient records, medical history and prescriptions. In healthcare, even a small mistake in data can cause serious problems, so having a stable and structured database like MySQL is important.
+MongoDB, on the other hand, can still be useful for certain parts of the system. For example, if the company wants to build a fraud detection module or analyze large amounts of different types of data, MongoDB can handle that more easily because it is flexible and can scale quickly. It does not require a fixed table structure and can store different types of data.
+So overall, MySQL would be the main database for managing patient data safely and reliably, while MongoDB could be used for additional modules like fraud detection where flexibility and scalability are needed.
