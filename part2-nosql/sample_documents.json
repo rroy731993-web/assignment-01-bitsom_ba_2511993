@@ -1,0 +1,43 @@
+[
+{
+  "product_id": "E201",
+  "name": "iPhone 15",
+  "category": "Electronics",
+  "price": 75000,
+  "brand": "Apple",
+  "specifications": {
+    "screen_size": "6.1 inch",
+    "storage": "128GB",
+    "battery": "3349mAh"
+  },
+  "warranty_years": 1,
+  "features": ["5G", "Face ID", "Wireless Charging"]
+},
+
+{
+  "product_id": "C301",
+  "name": "Men's Formal Blazer",
+  "category": "Clothing",
+  "price": 4999,
+  "brand": "Zara",
+  "size_options": ["S", "M", "L", "XL"],
+  "material": "Polyester Blend",
+  "colors": ["Black", "Navy Blue", "Grey"],
+  "gender": "Men"
+},
+
+{
+  "product_id": "G401",
+  "name": "Basmati Rice",
+  "category": "Groceries",
+  "price": 1200,
+  "brand": "IndiaGate",
+  "weight": "5kg",
+  "expiry_date": "2025-12-31",
+  "nutrition": {
+    "calories": 365,
+    "protein": "7.1g",
+    "carbohydrates": "80g"
+  }
+}
+]
